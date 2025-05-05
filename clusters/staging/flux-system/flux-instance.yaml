@@ -21,7 +21,7 @@ spec:
     domain: "cluster.local"
   sync:
     kind: GitRepository
-    url: "https://github.com/stefanprodan/flux-fleet"
+    url: "https://github.com/code11octo/flux-fleet"
     ref: "refs/heads/main"
     path: "clusters/staging"
     pullSecret: "github-auth"
